@@ -1,0 +1,12 @@
+streamlit
+langchain
+langchain-core
+langchain-community
+python-dotenv
+langserve
+langgraph-cli[inmem]
+langchain-groq
+langchain-ollama
+arxiv
+wikipedia
+duckduckgo-search
